@@ -1,3 +1,5 @@
+# 这个项目仅把`examples`目录内的文档做了个AI中文翻译的副本
+
 # 🦜🕸️LangGraph.js
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue)](https://langchain-ai.github.io/langgraphjs/)
